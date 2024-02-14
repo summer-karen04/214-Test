@@ -313,6 +313,7 @@ GameObject:
   - component: {fileID: 1931870163}
   - component: {fileID: 1931870162}
   - component: {fileID: 1931870161}
+  - component: {fileID: 1931870165}
   m_Layer: 0
   m_Name: RedBall
   m_TagString: Untagged
@@ -398,3 +399,15 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1931870165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931870160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486756713743f254983ae5273ee7f1ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
